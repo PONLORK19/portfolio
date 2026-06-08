@@ -21,7 +21,7 @@
         </a>
       </div>
 
-      <a href="/resume.pdf" download class="resume-btn"> Resume </a>
+      <a href="/portfolio/KEO CHANPONLORK-CV.pdf" download class="resume-btn"> Resume </a>
     </nav>
   </header>
 </template>

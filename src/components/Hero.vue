@@ -20,7 +20,7 @@
       </p>
 
       <div class="buttons">
-        <a href="/KEO CHANPONLOKR-CV.pdf" download class="primary-btn"> Download CV </a>
+        <a href="/portfolio/KEO CHANPONLOKR-CV.pdf" download class="primary-btn"> Download CV </a>
 
         <a href="#contact" class="secondary-btn"> Contact Me </a>
       </div>
